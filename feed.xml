@@ -6,7 +6,22 @@
     <description></description>
     <language>zh-cn</language>
     <generator>Gridea Pro</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 16:54:13 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:11:59 +0800</lastBuildDate>
     <atom:link href="https://tangbiubiu.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <item>
+      <title>harness 解剖学</title>
+      <link>https://tangbiubiu.github.io/post/harness-jie-pou-xue/</link>
+      <guid isPermaLink="true">https://tangbiubiu.github.io/post/harness-jie-pou-xue/</guid>
+      <pubDate>Wed, 29 Apr 2026 15:47:22 +0800</pubDate>
+      <description><![CDATA[<blockquote>
+<p>原文：<a href="https://x.com/akshay_pachaar/article/2041146899319971922">The Anatomy of an Agent Harness</a><br />
+本文根据原文提炼核心观点<br />
+「如果你不是模型，那你就是 harness。」<br />
+Beren Millidge 在他 2023 年的文章《Scaffolded LLMs as Natural Language &hellip;</p>
+</blockquote>
+]]></description>
+      <category>Agent</category>
+      <enclosure url="https://tangbiubiu.github.io/post-images/harness-jie-pou-xue.jpg" length="0" type="image/jpeg"></enclosure>
+    </item>
   </channel>
 </rss>
