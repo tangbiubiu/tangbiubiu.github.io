@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://tangbiubiu.github.io/</loc>
-    <lastmod>2026-07-15T18:02:23+08:00</lastmod>
+    <lastmod>2026-07-16T10:34:43+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tangbiubiu.github.io/post/yin-yang-shi-gong-lue-ji-lu/</loc>
+    <lastmod>2026-07-16T10:34:39+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://tangbiubiu.github.io/post-images/yin-yang-shi-gong-lue-ji-lu.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://tangbiubiu.github.io/post/wo-bu-zai-zuo-de-shi/</loc>
@@ -23,43 +32,49 @@
   </url>
   <url>
     <loc>https://tangbiubiu.github.io/post/</loc>
-    <lastmod>2026-07-15T18:02:23+08:00</lastmod>
+    <lastmod>2026-07-16T10:34:43+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tangbiubiu.github.io/memos/</loc>
-    <lastmod>2026-07-15T18:02:23+08:00</lastmod>
+    <lastmod>2026-07-16T10:34:43+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tangbiubiu.github.io/tags/</loc>
-    <lastmod>2026-07-15T18:02:23+08:00</lastmod>
+    <lastmod>2026-07-16T10:34:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tangbiubiu.github.io/archives/</loc>
-    <lastmod>2026-07-15T18:02:23+08:00</lastmod>
+    <lastmod>2026-07-16T10:34:43+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tangbiubiu.github.io/tag/agent/</loc>
-    <lastmod>2026-07-15T18:02:23+08:00</lastmod>
+    <lastmod>2026-07-16T10:34:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://tangbiubiu.github.io/tag/life/</loc>
-    <lastmod>2026-07-15T18:02:23+08:00</lastmod>
+    <lastmod>2026-07-16T10:34:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://tangbiubiu.github.io/tag/yang-yang-shu-ri-ji/</loc>
+    <lastmod>2026-07-16T10:34:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://tangbiubiu.github.io/links/</loc>
-    <lastmod>2026-07-15T18:02:23+08:00</lastmod>
+    <lastmod>2026-07-16T10:34:43+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
